@@ -4,3 +4,10 @@
 
 # 本地权限配置，不随仓库公开
 .claude/settings.local.json
+
+# 桌面界面（Tauri + React）
+/node_modules
+/dist
+/src-tauri/target
+/src-tauri/gen
+icon-src.png
